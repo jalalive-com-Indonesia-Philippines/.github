@@ -1,2 +1,2 @@
 # .github
-Jalliv APK adalah aplikasi Android yang memungkinkan Anda menonton acara olahraga langsung seperti sepak bola, bola basket, dan turnamen internasional lainnya.
+Jallive APK adalah aplikasi Android yang memungkinkan Anda menonton acara olahraga langsung seperti sepak bola, bola basket, dan turnamen internasional lainnya.
